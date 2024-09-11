@@ -46,3 +46,5 @@ SageMaker – Amazon SageMaker is a fully managed service that brings together
 Quick Sight – Amazon QuickSight powers data-driven organizations with unified business intelligence (BI) at hyperscale. Visualise the data from Athena.  
 
 Athena - Amazon Athena is a serverless, interactive analytics service built on open-source frameworks, supporting open-table and file formats. It query s3 data 
+
+Ref: https://www.youtube.com/watch?v=M-l7gVm69KI 
